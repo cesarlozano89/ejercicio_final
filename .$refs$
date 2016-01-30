@@ -1,0 +1,24 @@
+% This file was created with JabRef 2.10b2.
+% Encoding: UTF-8
+
+
+@Article{1,
+  Title                    = {Cómo hacer reacciones},
+  Author                   = {Cesar},
+  Journal                  = {European Journal of hacer reacciones},
+  Year                     = {2015},
+
+  Owner                    = {cesar},
+  Timestamp                = {2016.01.30}
+}
+
+@Article{cesar2,
+  Title                    = {Cómo hacer reacciones. Parte 2},
+  Author                   = {Cesar},
+  Journal                  = {European Journal of hacer reacciones},
+  Year                     = {2015},
+
+  Owner                    = {cesar},
+  Timestamp                = {2016.01.30}
+}
+
